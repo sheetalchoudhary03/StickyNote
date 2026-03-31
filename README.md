@@ -34,3 +34,10 @@ This project was developed as part of an **Operating Systems** course to gain pr
 
 ---
 
+## 💻 Download
+
+Go to exe folder and download:
+
+👉 exe/wsl.exe
+
+Run the file on Windows.
